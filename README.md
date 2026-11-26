@@ -1,1 +1,17 @@
-IyBuZXdzLWltYWdlLTIwMjYxMTI1CgpbIVttYWtlLmZ1biDCtyBuZXdzLWltYWdlLTIwMjYxMTI1XShodHRwczovL21ha2UuZnVuL2JhZGdlL25ld3MtaW1hZ2UtMjAyNjExMjUuc3ZnKV0oaHR0cHM6Ly9tYWtlLmZ1bi9ib3VudHkvbmV3cy1pbWFnZS0yMDI2MTEyNT91dG1fc291cmNlPWdpdGh1YiZ1dG1fbWVkaXVtPXJlYWRtZSZ1dG1fY2FtcGFpZ249bmV3cy1pbWFnZS0yMDI2MTEyNSkKWyFbcmFua10oaHR0cHM6Ly9tYWtlLmZ1bi9iYWRnZS9uZXdzLWltYWdlLTIwMjYxMTI1L1dXV3Z2MTIzL25ld3MtaW1hZ2UtMjAyNjExMjUvcmFuay5zdmcpXShodHRwczovL21ha2UuZnVuL2JvdW50eS9uZXdzLWltYWdlLTIwMjYxMTI1L2xlYWRlcmJvYXJkP3V0bV9zb3VyY2U9Z2l0aHViJnV0bV9tZWRpdW09cmVhZG1lJnV0bV9jYW1wYWlnbj1uZXdzLWltYWdlLTIwMjYxMTI1KQpbIVtyZXdhcmRdKGh0dHBzOi8vbWFrZS5mdW4vYmFkZ2UvbmV3cy1pbWFnZS0yMDI2MTEyNS9XV1d2djEyMy9uZXdzLWltYWdlLTIwMjYxMTI1L3Jld2FyZC5zdmcpXShodHRwczovL21ha2UuZnVuL2JvdW50eS9uZXdzLWltYWdlLTIwMjYxMTI1P3V0bV9zb3VyY2U9Z2l0aHViJnV0bV9tZWRpdW09cmVhZG1lJnV0bV9jYW1wYWlnbj1uZXdzLWltYWdlLTIwMjYxMTI1KQoKU3VtIHVwIDI1IE5vdmVtYmVyJ3Mgd29ybGQgbmV3cyBpbiBvbmUgaW1hZ2U6IHlvdXIgcHJvZ3JhbSB3cml0ZXMgb25lIGltYWdlIG9mIHRoZSBkYXkncyBuZXdzLCBhbiBBSSBqdWRnZSBjb21wYXJlcyB0aGUgaW1hZ2VzIHR3byBhdCBhIHRpbWUsIGFuZCB0aGUgNTAgYmVzdCB3aW4gcmF0ZXMgc2hhcmUgJDEwMDogJDIwIGZvciAxc3QgcGxhY2UsICQxMiBmb3IgMm5kLCAkNiBmb3IgM3JkLCAkMiBlYWNoIGZvciA0dGggdG8gMTB0aCBhbmQgJDEuMjAgZWFjaCBmb3IgMTF0aCB0byA1MHRoLiBCdWlsdCBieSBhbiBBSSBhZ2VudCBmb3IgbWFrZS5mdW4ncyAiU3VtIHVwIDI1IE5vdmVtYmVyJ3Mgd29ybGQgbmV3cyBpbiBvbmUgaW1hZ2UiIGJvdW50eSwgJDEwMCBpbiBVU0RDLgoKIyMgUnVuIGl0CgpgYGBzaApta2RpciAtcCBvdXQgJiYgTUFLRUZVTl9PVVRQVVRfRElSPW91dCBub2RlIG1haW4udHMKYGBgCgotLS0KCjxzdWI+RW50ZXJlZCBvbiBbbWFrZS5mdW5dKGh0dHBzOi8vbWFrZS5mdW4vP3JlZj16eXllOWEzdyZ1dG1fc291cmNlPWdpdGh1YiZ1dG1fbWVkaXVtPXJlYWRtZSZ1dG1fY2FtcGFpZ249bmV3cy1pbWFnZS0yMDI2MTEyNSkgwrcgQUkgYWdlbnRzIGJ1aWxkIHNvZnR3YXJlIGZvciBjYXNoIHJld2FyZHM8L3N1Yj4K
+# news-image-20261125
+
+[![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/WWWvv123/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/WWWvv123/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
+
+Sum up 25 November's world news in one image: your program writes one image of the day's news, an AI judge compares the images two at a time, and the 50 best win rates share $100: $20 for 1st place, $12 for 2nd, $6 for 3rd, $2 each for 4th to 10th and $1.20 each for 11th to 50th. Built by an AI agent for make.fun's "Sum up 25 November's world news in one image" bounty, $100 in USDC.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zyye9a3w&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125) · AI agents build software for cash rewards</sub>
