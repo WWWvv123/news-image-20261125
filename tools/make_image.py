@@ -1,1 +1,199 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJEcmF3IGEgY2xhc3NpYyBuZXdzcGFwZXIgZnJvbnQgcGFnZSBmb3IgMjUgTm92ZW1iZXIgMjAyNi4KCkV2ZXJ5dGhpbmcgb24gdGhlIHBhZ2UgLS0gbWFzdGhlYWQsIGhlYWRsaW5lcywgc3VtbWFyaWVzLCBydWxlcyAtLSBpcwpkcmF3biBpbiBjb2RlIHdpdGggUElMLiBObyBwaG90b3MsIG5vIGV4dGVybmFsIGltYWdlcywgbm8gd2ViIGZldGNoZXMuClJ1bjogIHB5dGhvbjMgdG9vbHMvbWFrZV9pbWFnZS5weQpXcml0ZXM6IGVudHJ5LnBuZyBuZXh0IHRvIHRoaXMgc2NyaXB0J3MgcGFyZW50IGRpcmVjdG9yeSAodGhlIGVudHJ5IHJvb3QpLgoiIiIKCmltcG9ydCBvcwpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlRHJhdywgSW1hZ2VGb250CgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCkVOVFJZX0RJUiA9IG9zLnBhdGguZGlybmFtZShIRVJFKQpPVVRfUEFUSCA9IG9zLnBhdGguam9pbihFTlRSWV9ESVIsICJlbnRyeS5wbmciKQoKQ0FOVkFTX1cgPSAxMDI0CkNBTlZBU19IID0gMTAyNApNQVJHSU4gPSA0MApDT05URU5UX1cgPSBDQU5WQVNfVyAtIDIgKiBNQVJHSU4KClBBUEVSID0gKDI1MCwgMjQ2LCAyMzYpICAgICAgIyB3YXJtIG5ld3NwcmludApJTksgPSAoMTgsIDE4LCAxOCkgICAgICAgICAgICMgbmVhci1ibGFjayBpbmsKQUNDRU5UID0gKDEzOSwgMCwgMCkgICAgICAgICAjIGRhcmsgcmVkLCB1c2VkIG9ubHkgZm9yIGtpY2tlcnMKUlVMRV9HUkVZID0gKDEyMCwgMTE1LCAxMDApCgpTRVJJRl9CT0xEID0gIi91c3Ivc2hhcmUvZm9udHMvdHJ1ZXR5cGUvZGVqYXZ1L0RlamFWdVNlcmlmLUJvbGQudHRmIgpTRVJJRiA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTZXJpZi50dGYiClNFUklGX0lUQUxJQyA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2xpYmVyYXRpb24vTGliZXJhdGlvblNlcmlmLUl0YWxpYy50dGYiClNBTlMgPSAiL3Vzci9zaGFyZS9mb250cy90cnVldHlwZS9kZWphdnUvRGVqYVZ1U2Fucy50dGYiClNBTlNfQk9MRCA9ICIvdXNyL3NoYXJlL2ZvbnRzL3RydWV0eXBlL2RlamF2dS9EZWphVnVTYW5zLUJvbGQudHRmIgoKCmRlZiBmb250KHBhdGgsIHNpemUpOgogICAgcmV0dXJuIEltYWdlRm9udC50cnVldHlwZShwYXRoLCBzaXplKQoKCmRlZiB3cmFwX3RleHQoZHJhdywgdGV4dCwgZm50LCBtYXhfd2lkdGgpOgogICAgIiIiR3JlZWR5IHdvcmQgd3JhcDsgcmV0dXJucyBhIGxpc3Qgb2YgbGluZXMgdGhhdCBmaXQgbWF4X3dpZHRoLiIiIgogICAgbGluZXMgPSBbXQogICAgZm9yIHBhcmFncmFwaCBpbiB0ZXh0LnNwbGl0KCJcbiIpOgogICAgICAgIHdvcmRzID0gcGFyYWdyYXBoLnNwbGl0KCkKICAgICAgICBpZiBub3Qgd29yZHM6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgiIikKICAgICAgICAgICAgY29udGludWUKICAgICAgICBjdXJyZW50ID0gd29yZHNbMF0KICAgICAgICBmb3Igd29yZCBpbiB3b3Jkc1sxOl06CiAgICAgICAgICAgIHRyaWFsID0gY3VycmVudCArICIgIiArIHdvcmQKICAgICAgICAgICAgaWYgZHJhdy50ZXh0bGVuZ3RoKHRyaWFsLCBmb250PWZudCkgPD0gbWF4X3dpZHRoOgogICAgICAgICAgICAgICAgY3VycmVudCA9IHRyaWFsCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBsaW5lcy5hcHBlbmQoY3VycmVudCkKICAgICAgICAgICAgICAgIGN1cnJlbnQgPSB3b3JkCiAgICAgICAgbGluZXMuYXBwZW5kKGN1cnJlbnQpCiAgICByZXR1cm4gbGluZXMKCgpkZWYgZHJhd19jZW50ZXJlZChkcmF3LCB5LCB0ZXh0LCBmbnQsIGZpbGw9SU5LKToKICAgIHdpZHRoID0gZHJhdy50ZXh0bGVuZ3RoKHRleHQsIGZvbnQ9Zm50KQogICAgZHJhdy50ZXh0KCgoQ0FOVkFTX1cgLSB3aWR0aCkgLyAyLCB5KSwgdGV4dCwgZm9udD1mbnQsIGZpbGw9ZmlsbCkKICAgIHJldHVybiB5ICsgZm50LnNpemUKCgpkZWYgZHJhd19ydWxlKGRyYXcsIHksIHRoaWNrbmVzcz0xLCB4MD1Ob25lLCB4MT1Ob25lLCBmaWxsPUlOSyk6CiAgICB4MCA9IE1BUkdJTiBpZiB4MCBpcyBOb25lIGVsc2UgeDAKICAgIHgxID0gQ0FOVkFTX1cgLSBNQVJHSU4gaWYgeDEgaXMgTm9uZSBlbHNlIHgxCiAgICBkcmF3LnJlY3RhbmdsZShbeDAsIHksIHgxLCB5ICsgdGhpY2tuZXNzIC0gMV0sIGZpbGw9ZmlsbCkKCgpkZWYgZHJhd19zdG9yeShkcmF3LCB4LCB5LCB3aWR0aCwga2lja2VyLCBoZWFkbGluZSwgc3VtbWFyeSwKICAgICAgICAgICAgICAgaGVhZF9zaXplPTI4LCBzdW1fc2l6ZT0xOSk6CiAgICAiIiJPbmUgYm94ZWQgc3Rvcnk6IHNtYWxsLWNhcHMga2lja2VyLCBib2xkIGhlYWRsaW5lLCBzaG9ydCBzdW1tYXJ5LiIiIgogICAga2lja19mb250ID0gZm9udChTQU5TX0JPTEQsIDE3KQogICAgaGVhZF9mb250ID0gZm9udChTRVJJRl9CT0xELCBoZWFkX3NpemUpCiAgICBzdW1fZm9udCA9IGZvbnQoU0VSSUYsIHN1bV9zaXplKQoKICAgIGRyYXcudGV4dCgoeCwgeSksIGtpY2tlciwgZm9udD1raWNrX2ZvbnQsIGZpbGw9QUNDRU5UKQogICAgeSArPSAyNAogICAgZm9yIGxpbmUgaW4gd3JhcF90ZXh0KGRyYXcsIGhlYWRsaW5lLCBoZWFkX2ZvbnQsIHdpZHRoKToKICAgICAgICBkcmF3LnRleHQoKHgsIHkpLCBsaW5lLCBmb250PWhlYWRfZm9udCwgZmlsbD1JTkspCiAgICAgICAgeSArPSBoZWFkX3NpemUgKyA2CiAgICB5ICs9IDIKICAgIGZvciBsaW5lIGluIHdyYXBfdGV4dChkcmF3LCBzdW1tYXJ5LCBzdW1fZm9udCwgd2lkdGgpOgogICAgICAgIGRyYXcudGV4dCgoeCwgeSksIGxpbmUsIGZvbnQ9c3VtX2ZvbnQsIGZpbGw9SU5LKQogICAgICAgIHkgKz0gc3VtX3NpemUgKyA2CiAgICByZXR1cm4geQoKCmRlZiBidWlsZF9wYWdlKCk6CiAgICBpbWcgPSBJbWFnZS5uZXcoIlJHQiIsIChDQU5WQVNfVywgQ0FOVkFTX0gpLCBQQVBFUikKICAgIGRyYXcgPSBJbWFnZURyYXcuRHJhdyhpbWcpCgogICAgIyAtLS0gdG9wIG1ldGEgbGluZSAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBtZXRhX2ZvbnQgPSBmb250KFNBTlMsIDE2KQogICAgZHJhdy50ZXh0KChNQVJHSU4sIDI0KSwgIldPUkxEIEVESVRJT04iLCBmb250PW1ldGFfZm9udCwgZmlsbD1JTkspCiAgICByaWdodF9tZXRhID0gIk5vLiAzMjkgIOKAoiAgU0lYIFNUT1JJRVMiCiAgICBydyA9IGRyYXcudGV4dGxlbmd0aChyaWdodF9tZXRhLCBmb250PW1ldGFfZm9udCkKICAgIGRyYXcudGV4dCgoQ0FOVkFTX1cgLSBNQVJHSU4gLSBydywgMjQpLCByaWdodF9tZXRhLAogICAgICAgICAgICAgIGZvbnQ9bWV0YV9mb250LCBmaWxsPUlOSykKICAgIGRyYXdfcnVsZShkcmF3LCA0OCwgMSkKCiAgICAjIC0tLSBtYXN0aGVhZCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIG1hc3RfZm9udCA9IGZvbnQoU0VSSUZfQk9MRCwgNzgpCiAgICBkcmF3X2NlbnRlcmVkKGRyYXcsIDU2LCAiVEhFIFdPUkxEIFRPREFZIiwgbWFzdF9mb250KQogICAgZGF0ZV9mb250ID0gZm9udChTRVJJRl9CT0xELCAzMCkKICAgIGRyYXdfY2VudGVyZWQoZHJhdywgMTUyLCAiV2VkbmVzZGF5LCAyNSBOb3ZlbWJlciAyMDI2IiwgZGF0ZV9mb250KQogICAgbm90ZV9mb250ID0gZm9udChTQU5TLCAxNikKICAgIGRyYXdfY2VudGVyZWQoZHJhdywgMTkwLAogICAgICAgICAgICAgICAgICAiQUxMIFNUT1JJRVMgQkVMT1cgV0VSRSBSRVBPUlRFRCBPTiBUSElTIERBWSIsCiAgICAgICAgICAgICAgICAgIG5vdGVfZm9udCwgZmlsbD1SVUxFX0dSRVkpCiAgICBkcmF3X3J1bGUoZHJhdywgMjE2LCA0KQogICAgZHJhd19ydWxlKGRyYXcsIDIyNCwgMSkKCiAgICAjIC0tLSBsZWFkIHN0b3J5IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGtpY2tfZm9udCA9IGZvbnQoU0FOU19CT0xELCAyMCkKICAgIGRyYXcudGV4dCgoTUFSR0lOLCAyMzgpLCAiTUlERExFIEVBU1QgIOKAlCAgTEVBRCBTVE9SWSIsCiAgICAgICAgICAgICAgZm9udD1raWNrX2ZvbnQsIGZpbGw9QUNDRU5UKQogICAgbGVhZF9mb250ID0gZm9udChTRVJJRl9CT0xELCA1NikKICAgIGxlYWRfaGVhZCA9ICJUV08gVEFOS0VSUyBISVQgTUlORVMgSU4gVEhFIFNUUkFJVCBPRiBIT1JNVVoiCiAgICB5ID0gMjY0CiAgICBmb3IgbGluZSBpbiB3cmFwX3RleHQoZHJhdywgbGVhZF9oZWFkLCBsZWFkX2ZvbnQsIENPTlRFTlRfVyk6CiAgICAgICAgZHJhdy50ZXh0KChNQVJHSU4sIHkpLCBsaW5lLCBmb250PWxlYWRfZm9udCwgZmlsbD1JTkspCiAgICAgICAgeSArPSA1NiArIDgKICAgIHkgKz0gNAogICAgbGVhZF9zdW0gPSAoCiAgICAgICAgIklyYW5cdTIwMTlzIFJldm9sdXRpb25hcnkgR3VhcmQgc2FpZCB0d28gb2lsIHRhbmtlcnMgc3RydWNrIG5hdmFsICIKICAgICAgICAibWluZXMgZWFybHkgb24gV2VkbmVzZGF5LCBleHBsb2RlZCBhbmQgY2F1Z2h0IGZpcmUgb24gd2hhdCBUZWhyYW4gIgogICAgICAgICJjYWxsZWQgYW4gdW5hdXRob3Jpc2VkIHJvdXRlLiBCcmVudCBjcnVkZSByb3NlIHRvICQ5MVx1MjAxMyQ5MiBhICIKICAgICAgICAiYmFycmVsIGFzIGZlYXJzIGdyZXcgb3ZlciB0aGUgd29ybGRcdTIwMTlzIGJ1c2llc3Qgb2lsIGNob2tlcG9pbnQuIgogICAgKQogICAgc3VtX2ZvbnQgPSBmb250KFNFUklGLCAyNCkKICAgIGZvciBsaW5lIGluIHdyYXBfdGV4dChkcmF3LCBsZWFkX3N1bSwgc3VtX2ZvbnQsIENPTlRFTlRfVyk6CiAgICAgICAgZHJhdy50ZXh0KChNQVJHSU4sIHkpLCBsaW5lLCBmb250PXN1bV9mb250LCBmaWxsPUlOSykKICAgICAgICB5ICs9IDI0ICsgNwogICAgZHJhd19ydWxlKGRyYXcsIDUxOCwgMikKCiAgICAjIC0tLSBmb3VyIHN0b3JpZXMgaW4gYSAyIHggMiBncmlkIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICAgIGNvbF93ID0gKENPTlRFTlRfVyAtIDQwKSAvLyAyCiAgICBsZWZ0X3ggPSBNQVJHSU4KICAgIHJpZ2h0X3ggPSBNQVJHSU4gKyBjb2xfdyArIDQwCiAgICAjIGZhaW50IHZlcnRpY2FsIGRpdmlkZXIgYmV0d2VlbiB0aGUgY29sdW1ucwogICAgZHJhdy5yZWN0YW5nbGUoW0NBTlZBU19XIC8vIDIgLSAxLCA1MzIsIENBTlZBU19XIC8vIDIsIDg4MF0sCiAgICAgICAgICAgICAgICAgICBmaWxsPSgyMDAsIDE5NCwgMTc4KSkKCiAgICBzdG9yaWVzID0gWwogICAgICAgICgiWUVNRU4gIOKAlCAgU0FVREkgQVJBQklBIiwKICAgICAgICAgIkhPVVRISVMgU1RSSUtFIFNBVURJIFJFRklORVJZIEFUIFJBUyBUQU5VUkEiLAogICAgICAgICAiWWVtZW5cdTIwMTlzIEhvdXRoaXMgc2FpZCB0aGV5IGF0dGFja2VkIFNhdWRpIEFyYWJpYVx1MjAxOXMgUmFzICIKICAgICAgICAgIlRhbnVyYSByZWZpbmVyeSwgY2F1c2luZyBmaXJlcywgYSBkYXkgYWZ0ZXIgYSBSaXlhZGggc3RyaWtlICIKICAgICAgICAgImluanVyZWQgMTEuIiksCiAgICAgICAgKCJVTklURUQgU1RBVEVTICDigJQgIFRFQ0hOT0xPR1kiLAogICAgICAgICAiSFVBV0VJIENPTlZJQ1RFRCBJTiBVLlMuIFRSQURFLVNFQ1JFVFMgVFJJQUwiLAogICAgICAgICAiQSBmZWRlcmFsIGp1cnkgZm91bmQgdGhlIENoaW5lc2UgdGVjaCBnaWFudCBndWlsdHkgb2YgY29uc3BpcmFjeSAiCiAgICAgICAgICJ0byBzdGVhbCB0cmFkZSBzZWNyZXRzIGFuZCBiYW5rIGZyYXVkLCBidXQgbm90IG9mIHJhY2tldGVlcmluZy4iKSwKICAgICAgICAoIlVOSVRFRCBTVEFURVMgIOKAlCAgRUNPTk9NWSIsCiAgICAgICAgICJVLlMuIFBMQU5TIE5FVyBUQVJJRkZTOyBNQVJLRVRTIFNMSURFIiwKICAgICAgICAgIldhc2hpbmd0b24gcHJvcG9zZWQgZnJlc2ggdGFyaWZmcywgaW5jbHVkaW5nIGFuIGV4dHJhIDIwJSBvbiAiCiAgICAgICAgICJpbXBvcnRzIGZyb20gQ2hpbmEuIFRoZSBOYXNkYXEgZmVsbCAyJSBvbiBXZWRuZXNkYXkuIiksCiAgICAgICAgKCJDSElOQSAg4oCUICBTUEFDRSIsCiAgICAgICAgICJGSVJTVCBGT1JFSUdOIEFTVFJPTkFVVCBBVCBUSUFOR09ORyIsCiAgICAgICAgICJDaGluYVx1MjAxOXMgU2hlbnpob3UtMjQgZG9ja2VkIHdpdGggVGlhbmdvbmcgY2FycnlpbmcgUGFraXN0YW5pICIKICAgICAgICAgImFzdHJvbmF1dCBNdWhhbW1hZCBaZWVzaGFuIEFsaSwgdGhlIGZpcnN0IGZvcmVpZ24gdmlzaXRvci4iKSwKICAgIF0KICAgIGRyYXdfc3RvcnkoZHJhdywgbGVmdF94LCA1MzIsIGNvbF93LCAqc3Rvcmllc1swXSkKICAgIGRyYXdfc3RvcnkoZHJhdywgcmlnaHRfeCwgNTMyLCBjb2xfdywgKnN0b3JpZXNbMV0pCiAgICBkcmF3X3N0b3J5KGRyYXcsIGxlZnRfeCwgNzEwLCBjb2xfdywgKnN0b3JpZXNbMl0pCiAgICBkcmF3X3N0b3J5KGRyYXcsIHJpZ2h0X3gsIDcxMCwgY29sX3csICpzdG9yaWVzWzNdKQogICAgZHJhd19ydWxlKGRyYXcsIDg4OCwgMikKCiAgICAjIC0tLSBzaXh0aCBzdG9yeTogZnVsbC13aWR0aCBzdHJpcCBhdCB0aGUgZm9vdCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkcmF3LnRleHQoKE1BUkdJTiwgOTAyKSwgIlBBQ0lGSUMgIOKAlCAgU0VDVVJJVFkiLAogICAgICAgICAgICAgIGZvbnQ9a2lja19mb250LCBmaWxsPUFDQ0VOVCkKICAgIGZvb3RfaGVhZF9mb250ID0gZm9udChTRVJJRl9CT0xELCAyNykKICAgIGRyYXcudGV4dCgoTUFSR0lOLCA5MjgpLAogICAgICAgICAgICAgICJTT0xPTU9OIElTTEFORFMgU0lHTlMgUEFDVCBXSVRIIEFVU1RSQUxJQSIsCiAgICAgICAgICAgICAgZm9udD1mb290X2hlYWRfZm9udCwgZmlsbD1JTkspCiAgICBmb290X3N1bV9mb250ID0gZm9udChTRVJJRl9JVEFMSUMsIDIwKQogICAgZHJhdy50ZXh0KChNQVJHSU4sIDk1OCksCiAgICAgICAgICAgICAgIlRoZSB0cmVhdHkgd291bGQgYmFyIGEgZm9yZWlnbiBtaWxpdGFyeSBvciBzZWN1cml0eSBiYXNlIG9uICIKICAgICAgICAgICAgICAiU29sb21vbiBJc2xhbmRzLiIsCiAgICAgICAgICAgICAgZm9udD1mb290X3N1bV9mb250LCBmaWxsPUlOSykKCiAgICAjIC0tLSBmb290ZXIgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgICBkcmF3X3J1bGUoZHJhdywgOTkwLCAxKQogICAgZm9vdF9mb250ID0gZm9udChTQU5TLCAxNCkKICAgIGZvb3RlciA9ICgiU291cmNlczogUmV1dGVycyAg4oCiICBKdXN0IFNlY3VyaXR5ICDigKIgIFhpbmh1YSAg4oCiICBBdmlhdGlvbiAiCiAgICAgICAgICAgICAgIldlZWsgIOKAlCAgQWxsIHNpeCBzdG9yaWVzIHJlcG9ydGVkIG9uIDI1IE5vdmVtYmVyIDIwMjYuIikKICAgIGRyYXdfY2VudGVyZWQoZHJhdywgOTk4LCBmb290ZXIsIGZvb3RfZm9udCwgZmlsbD1SVUxFX0dSRVkpCgogICAgaW1nLnNhdmUoT1VUX1BBVEgsICJQTkciLCBvcHRpbWl6ZT1UcnVlKQogICAgcmV0dXJuIE9VVF9QQVRICgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIHBhdGggPSBidWlsZF9wYWdlKCkKICAgIHNpemUgPSBvcy5wYXRoLmdldHNpemUocGF0aCkKICAgIHdpdGggSW1hZ2Uub3BlbihwYXRoKSBhcyBjaGVjazoKICAgICAgICBwcmludChmIldyb3RlIHtwYXRofToge2NoZWNrLnNpemVbMF19eHtjaGVjay5zaXplWzFdfSwgIgogICAgICAgICAgICAgIGYie3NpemV9IGJ5dGVzIikK
+#!/usr/bin/env python3
+"""Draw a classic newspaper front page for 25 November 2026.
+
+Everything on the page -- masthead, headlines, summaries, rules -- is
+drawn in code with PIL. No photos, no external images, no web fetches.
+Run:  python3 tools/make_image.py
+Writes: entry.png next to this script's parent directory (the entry root).
+"""
+
+import os
+from PIL import Image, ImageDraw, ImageFont
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ENTRY_DIR = os.path.dirname(HERE)
+OUT_PATH = os.path.join(ENTRY_DIR, "entry.png")
+
+CANVAS_W = 1024
+CANVAS_H = 1024
+MARGIN = 40
+CONTENT_W = CANVAS_W - 2 * MARGIN
+
+PAPER = (250, 246, 236)      # warm newsprint
+INK = (18, 18, 18)           # near-black ink
+ACCENT = (139, 0, 0)         # dark red, used only for kickers
+RULE_GREY = (120, 115, 100)
+
+SERIF_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
+SERIF = "/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
+SERIF_ITALIC = "/usr/share/fonts/truetype/liberation/LiberationSerif-Italic.ttf"
+SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
+SANS_BOLD = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+
+
+def font(path, size):
+    return ImageFont.truetype(path, size)
+
+
+def wrap_text(draw, text, fnt, max_width):
+    """Greedy word wrap; returns a list of lines that fit max_width."""
+    lines = []
+    for paragraph in text.split("\n"):
+        words = paragraph.split()
+        if not words:
+            lines.append("")
+            continue
+        current = words[0]
+        for word in words[1:]:
+            trial = current + " " + word
+            if draw.textlength(trial, font=fnt) <= max_width:
+                current = trial
+            else:
+                lines.append(current)
+                current = word
+        lines.append(current)
+    return lines
+
+
+def draw_centered(draw, y, text, fnt, fill=INK):
+    width = draw.textlength(text, font=fnt)
+    draw.text(((CANVAS_W - width) / 2, y), text, font=fnt, fill=fill)
+    return y + fnt.size
+
+
+def draw_rule(draw, y, thickness=1, x0=None, x1=None, fill=INK):
+    x0 = MARGIN if x0 is None else x0
+    x1 = CANVAS_W - MARGIN if x1 is None else x1
+    draw.rectangle([x0, y, x1, y + thickness - 1], fill=fill)
+
+
+def draw_story(draw, x, y, width, kicker, headline, summary,
+               head_size=28, sum_size=19):
+    """One boxed story: small-caps kicker, bold headline, short summary."""
+    kick_font = font(SANS_BOLD, 17)
+    head_font = font(SERIF_BOLD, head_size)
+    sum_font = font(SERIF, sum_size)
+
+    draw.text((x, y), kicker, font=kick_font, fill=ACCENT)
+    y += 24
+    for line in wrap_text(draw, headline, head_font, width):
+        draw.text((x, y), line, font=head_font, fill=INK)
+        y += head_size + 6
+    y += 2
+    for line in wrap_text(draw, summary, sum_font, width):
+        draw.text((x, y), line, font=sum_font, fill=INK)
+        y += sum_size + 6
+    return y
+
+
+def build_page():
+    img = Image.new("RGB", (CANVAS_W, CANVAS_H), PAPER)
+    draw = ImageDraw.Draw(img)
+
+    # --- top meta line -------------------------------------------------
+    meta_font = font(SANS, 16)
+    draw.text((MARGIN, 24), "WORLD EDITION", font=meta_font, fill=INK)
+    right_meta = "No. 329  •  SIX STORIES"
+    rw = draw.textlength(right_meta, font=meta_font)
+    draw.text((CANVAS_W - MARGIN - rw, 24), right_meta,
+              font=meta_font, fill=INK)
+    draw_rule(draw, 48, 1)
+
+    # --- masthead ------------------------------------------------------
+    mast_font = font(SERIF_BOLD, 78)
+    draw_centered(draw, 56, "THE WORLD TODAY", mast_font)
+    date_font = font(SERIF_BOLD, 30)
+    draw_centered(draw, 152, "Wednesday, 25 November 2026", date_font)
+    note_font = font(SANS, 16)
+    draw_centered(draw, 190,
+                  "ALL STORIES BELOW WERE REPORTED ON THIS DAY",
+                  note_font, fill=RULE_GREY)
+    draw_rule(draw, 216, 4)
+    draw_rule(draw, 224, 1)
+
+    # --- lead story ----------------------------------------------------
+    kick_font = font(SANS_BOLD, 20)
+    draw.text((MARGIN, 238), "MIDDLE EAST  —  LEAD STORY",
+              font=kick_font, fill=ACCENT)
+    lead_font = font(SERIF_BOLD, 56)
+    lead_head = "TWO TANKERS HIT MINES IN THE STRAIT OF HORMUZ"
+    y = 264
+    for line in wrap_text(draw, lead_head, lead_font, CONTENT_W):
+        draw.text((MARGIN, y), line, font=lead_font, fill=INK)
+        y += 56 + 8
+    y += 4
+    lead_sum = (
+        "Iran\u2019s Revolutionary Guard said two oil tankers struck naval "
+        "mines early on Wednesday, exploded and caught fire on what Tehran "
+        "called an unauthorised route. Brent crude rose to $91\u2013$92 a "
+        "barrel as fears grew over the world\u2019s busiest oil chokepoint."
+    )
+    sum_font = font(SERIF, 24)
+    for line in wrap_text(draw, lead_sum, sum_font, CONTENT_W):
+        draw.text((MARGIN, y), line, font=sum_font, fill=INK)
+        y += 24 + 7
+    draw_rule(draw, 518, 2)
+
+    # --- four stories in a 2 x 2 grid ----------------------------------
+    col_w = (CONTENT_W - 40) // 2
+    left_x = MARGIN
+    right_x = MARGIN + col_w + 40
+    # faint vertical divider between the columns
+    draw.rectangle([CANVAS_W // 2 - 1, 532, CANVAS_W // 2, 880],
+                   fill=(200, 194, 178))
+
+    stories = [
+        ("YEMEN  —  SAUDI ARABIA",
+         "HOUTHIS STRIKE SAUDI REFINERY AT RAS TANURA",
+         "Yemen\u2019s Houthis said they attacked Saudi Arabia\u2019s Ras "
+         "Tanura refinery, causing fires, a day after a Riyadh strike "
+         "injured 11."),
+        ("UNITED STATES  —  TECHNOLOGY",
+         "HUAWEI CONVICTED IN U.S. TRADE-SECRETS TRIAL",
+         "A federal jury found the Chinese tech giant guilty of conspiracy "
+         "to steal trade secrets and bank fraud, but not of racketeering."),
+        ("UNITED STATES  —  ECONOMY",
+         "U.S. PLANS NEW TARIFFS; MARKETS SLIDE",
+         "Washington proposed fresh tariffs, including an extra 20% on "
+         "imports from China. The Nasdaq fell 2% on Wednesday."),
+        ("CHINA  —  SPACE",
+         "FIRST FOREIGN ASTRONAUT AT TIANGONG",
+         "China\u2019s Shenzhou-24 docked with Tiangong carrying Pakistani "
+         "astronaut Muhammad Zeeshan Ali, the first foreign visitor."),
+    ]
+    draw_story(draw, left_x, 532, col_w, *stories[0])
+    draw_story(draw, right_x, 532, col_w, *stories[1])
+    draw_story(draw, left_x, 710, col_w, *stories[2])
+    draw_story(draw, right_x, 710, col_w, *stories[3])
+    draw_rule(draw, 888, 2)
+
+    # --- sixth story: full-width strip at the foot ----------------------
+    draw.text((MARGIN, 902), "PACIFIC  —  SECURITY",
+              font=kick_font, fill=ACCENT)
+    foot_head_font = font(SERIF_BOLD, 27)
+    draw.text((MARGIN, 928),
+              "SOLOMON ISLANDS SIGNS PACT WITH AUSTRALIA",
+              font=foot_head_font, fill=INK)
+    foot_sum_font = font(SERIF_ITALIC, 20)
+    draw.text((MARGIN, 958),
+              "The treaty would bar a foreign military or security base on "
+              "Solomon Islands.",
+              font=foot_sum_font, fill=INK)
+
+    # --- footer ---------------------------------------------------------
+    draw_rule(draw, 990, 1)
+    foot_font = font(SANS, 14)
+    footer = ("Sources: Reuters  •  Just Security  •  Xinhua  •  Aviation "
+              "Week  —  All six stories reported on 25 November 2026.")
+    draw_centered(draw, 998, footer, foot_font, fill=RULE_GREY)
+
+    img.save(OUT_PATH, "PNG", optimize=True)
+    return OUT_PATH
+
+
+if __name__ == "__main__":
+    path = build_page()
+    size = os.path.getsize(path)
+    with Image.open(path) as check:
+        print(f"Wrote {path}: {check.size[0]}x{check.size[1]}, "
+              f"{size} bytes")
