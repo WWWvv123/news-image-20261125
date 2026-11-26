@@ -1,1 +1,69 @@
-Ly8gbmV3cy1pbWFnZS0yMDI2MTEyNSBlbnRyeXBvaW50LgovLwovLyBDb3BpZXMgdGhlIHByZS1yZW5kZXJlZCBmcm9udCBwYWdlIChlbnRyeS5wbmcsIGRyYXduIGJ5Ci8vIHRvb2xzL21ha2VfaW1hZ2UucHkpIGludG8gdGhlIGRpcmVjdG9yeSBtYWtlLmZ1biBleHBlY3RzLCB0aGVuCi8vIHNlbGYtY2hlY2tzIHRoZSBjb3B5OiBpdCBtdXN0IGV4aXN0LCBzdGFydCB3aXRoIHRoZSBQTkcgbWFnaWMgYnl0ZXMsCi8vIGFuZCBiZSBleGFjdGx5IDEwMjQgeCAxMDI0IHBpeGVscy4gUHJpbnRzIE9LIG9uIHN1Y2Nlc3MuCi8vCi8vIFJ1bjogIG1rZGlyIC1wIG91dCAmJiBNQUtFRlVOX09VVFBVVF9ESVI9b3V0IG5vZGUgbWFpbi50cwoKaW1wb3J0IHsgY29weUZpbGVTeW5jLCBleGlzdHNTeW5jLCByZWFkRmlsZVN5bmMsIHN0YXRTeW5jIH0gZnJvbSAibm9kZTpmcyI7CmltcG9ydCB7IGpvaW4sIHJlc29sdmUgfSBmcm9tICJub2RlOnBhdGgiOwppbXBvcnQgeyBmaWxlVVJMVG9QYXRoIH0gZnJvbSAibm9kZTp1cmwiOwoKY29uc3QgUE5HX01BR0lDID0gQnVmZmVyLmZyb20oWzB4ODksIDB4NTAsIDB4NGUsIDB4NDcsIDB4MGQsIDB4MGEsIDB4MWEsIDB4MGFdKTsKY29uc3QgRVhQRUNURURfV0lEVEggPSAxMDI0Owpjb25zdCBFWFBFQ1RFRF9IRUlHSFQgPSAxMDI0OwoKZnVuY3Rpb24gZmFpbChtZXNzYWdlKSB7CiAgY29uc29sZS5lcnJvcihgRkFJTDogJHttZXNzYWdlfWApOwogIHByb2Nlc3MuZXhpdCgxKTsKfQoKZnVuY3Rpb24gbWFpbigpIHsKICBjb25zdCBvdXREaXIgPSBwcm9jZXNzLmVudi5NQUtFRlVOX09VVFBVVF9ESVI7CiAgaWYgKCFvdXREaXIpIHsKICAgIGZhaWwoIk1BS0VGVU5fT1VUUFVUX0RJUiBpcyBub3Qgc2V0Iik7CiAgfQoKICBjb25zdCBoZXJlID0gcmVzb2x2ZShmaWxlVVJMVG9QYXRoKG5ldyBVUkwoIi4iLCBpbXBvcnQubWV0YS51cmwpKSk7CiAgY29uc3Qgc291cmNlID0gam9pbihoZXJlLCAiZW50cnkucG5nIik7CiAgY29uc3QgdGFyZ2V0ID0gam9pbihyZXNvbHZlKG91dERpciksICJlbnRyeS5wbmciKTsKCiAgaWYgKCFleGlzdHNTeW5jKHNvdXJjZSkpIHsKICAgIGZhaWwoYGVudHJ5LnBuZyBub3QgZm91bmQgYXQgJHtzb3VyY2V9IChydW4gdG9vbHMvbWFrZV9pbWFnZS5weSBmaXJzdClgKTsKICB9CgogIGNvcHlGaWxlU3luYyhzb3VyY2UsIHRhcmdldCk7CgogIGlmICghZXhpc3RzU3luYyh0YXJnZXQpKSB7CiAgICBmYWlsKGBjb3B5IGZhaWxlZDogJHt0YXJnZXR9IGRvZXMgbm90IGV4aXN0YCk7CiAgfQoKICBjb25zdCBieXRlcyA9IHJlYWRGaWxlU3luYyh0YXJnZXQpOwogIGlmIChieXRlcy5sZW5ndGggPCAzMyB8fCAhYnl0ZXMuc3ViYXJyYXkoMCwgOCkuZXF1YWxzKFBOR19NQUdJQykpIHsKICAgIGZhaWwoYCR7dGFyZ2V0fSBpcyBub3QgYSBQTkcgZmlsZWApOwogIH0KCiAgLy8gUE5HIGhlYWRlcjogd2lkdGggaXMgYSBiaWctZW5kaWFuIHVpbnQzMiBhdCBvZmZzZXQgMTYsIGhlaWdodCBhdCAyMC4KICBjb25zdCB3aWR0aCA9IGJ5dGVzLnJlYWRVSW50MzJCRSgxNik7CiAgY29uc3QgaGVpZ2h0ID0gYnl0ZXMucmVhZFVJbnQzMkJFKDIwKTsKICBpZiAod2lkdGggIT09IEVYUEVDVEVEX1dJRFRIIHx8IGhlaWdodCAhPT0gRVhQRUNURURfSEVJR0hUKSB7CiAgICBmYWlsKAogICAgICBgZXhwZWN0ZWQgJHtFWFBFQ1RFRF9XSURUSH14JHtFWFBFQ1RFRF9IRUlHSFR9LCBnb3QgJHt3aWR0aH14JHtoZWlnaHR9YCwKICAgICk7CiAgfQoKICAvLyBUaGUgY29weSBtdXN0IGJlIGJ5dGUtaWRlbnRpY2FsIHRvIHRoZSBzb3VyY2UgaW1hZ2UuCiAgY29uc3Qgc291cmNlQnl0ZXMgPSByZWFkRmlsZVN5bmMoc291cmNlKTsKICBpZiAoIWJ5dGVzLmVxdWFscyhzb3VyY2VCeXRlcykpIHsKICAgIGZhaWwoImNvcGllZCBlbnRyeS5wbmcgZGlmZmVycyBmcm9tIHRoZSBzb3VyY2UgZW50cnkucG5nIik7CiAgfQoKICBjb25zdCBzaXplID0gc3RhdFN5bmModGFyZ2V0KS5zaXplOwogIGNvbnNvbGUubG9nKAogICAgYE9LOiBlbnRyeS5wbmcgKCR7d2lkdGh9eCR7aGVpZ2h0fSwgJHtzaXplfSBieXRlcykgLT4gJHt0YXJnZXR9YCwKICApOwp9CgptYWluKCk7Cg==
+// news-image-20261125 entrypoint.
+//
+// Copies the pre-rendered front page (entry.png, drawn by
+// tools/make_image.py) into the directory make.fun expects, then
+// self-checks the copy: it must exist, start with the PNG magic bytes,
+// and be exactly 1024 x 1024 pixels. Prints OK on success.
+//
+// Run:  mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
+
+import { copyFileSync, existsSync, readFileSync, statSync } from "node:fs";
+import { join, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
+
+const PNG_MAGIC = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
+const EXPECTED_WIDTH = 1024;
+const EXPECTED_HEIGHT = 1024;
+
+function fail(message) {
+  console.error(`FAIL: ${message}`);
+  process.exit(1);
+}
+
+function main() {
+  const outDir = process.env.MAKEFUN_OUTPUT_DIR;
+  if (!outDir) {
+    fail("MAKEFUN_OUTPUT_DIR is not set");
+  }
+
+  const here = resolve(fileURLToPath(new URL(".", import.meta.url)));
+  const source = join(here, "entry.png");
+  const target = join(resolve(outDir), "entry.png");
+
+  if (!existsSync(source)) {
+    fail(`entry.png not found at ${source} (run tools/make_image.py first)`);
+  }
+
+  copyFileSync(source, target);
+
+  if (!existsSync(target)) {
+    fail(`copy failed: ${target} does not exist`);
+  }
+
+  const bytes = readFileSync(target);
+  if (bytes.length < 33 || !bytes.subarray(0, 8).equals(PNG_MAGIC)) {
+    fail(`${target} is not a PNG file`);
+  }
+
+  // PNG header: width is a big-endian uint32 at offset 16, height at 20.
+  const width = bytes.readUInt32BE(16);
+  const height = bytes.readUInt32BE(20);
+  if (width !== EXPECTED_WIDTH || height !== EXPECTED_HEIGHT) {
+    fail(
+      `expected ${EXPECTED_WIDTH}x${EXPECTED_HEIGHT}, got ${width}x${height}`,
+    );
+  }
+
+  // The copy must be byte-identical to the source image.
+  const sourceBytes = readFileSync(source);
+  if (!bytes.equals(sourceBytes)) {
+    fail("copied entry.png differs from the source entry.png");
+  }
+
+  const size = statSync(target).size;
+  console.log(
+    `OK: entry.png (${width}x${height}, ${size} bytes) -> ${target}`,
+  );
+}
+
+main();
